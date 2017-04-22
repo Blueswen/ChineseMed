@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="./js/jvectormap-2.0.3.min.js"></script>
+    <script src="./js/world-mill.js"></script>
+    <script src="./js/papaparse.min.js"></script>
+    <script src="./js/selectize.min.js"></script>
+    <link rel="stylesheet" href="./css/selectize.css" media="screen" title="no title" charset="utf-8">
+    <link rel="stylesheet" href="./css/jvectormap-2.0.3.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+  </head>
+  <body>
+    <div style="display:None">
+      <label for="country">Country</label>
+      <select id="country">
+      </select>
+    </div>
+    <div>
+      <label for="item">Item</label>
+      <select id="item">
+      </select>
+    </div>
+    <div>
+      <label for="target">Target</label>
+      <select id="target">
+      </select>
+    </div>
+    <div>
+      <label for="type">Type</label>
+      <select id="type">
+      </select>
+    </div>
+    <button class="btn btn-default" type="submit" id="plot">Plot</button>
+    <div id="world-map" style="width: 600px; height: 400px"></div>
+    <script>
+      var country_data, item_data, record_data;
+      $(function(){
+        papa_config = {
+          delimiter: ",",
+          header: true,
+          skipEmptyLines: true
+        }
+        $('#world-map').vectorMap({map: 'world_mill'});
+
+        $('#target').selectize({
+          delimiter: ',',
+          persist: false,
+          options: [{'target':"價值"},{'target':"重量"}],
+          searchField: ['target'],
+          labelField: 'target',
+          valueField: 'target'
+        });
+        $('#type').selectize({
+          delimiter: ',',
+          persist: false,
+          options: [{'label':"出口", 'code':'O'},{'label':"進口", 'code':'I'}],
+          searchField: ['label'],
+          labelField: 'label',
+          valueField: 'code'
+        });
+
+        $.ajaxSetup({ cache: false });
+        $.ajax({
+          type: "GET",
+          url: "./data/country.csv",
+          dataType: "text",
+          success: function(data) {
+            country_data = Papa.parse(data,papa_config);
+            $('#country').selectize({
+              delimiter: ',',
+              persist: false,
+              options: country_data.data,
+              searchField: ['中文','英文'],
+              labelField: "中文",
+              valueField: "編碼",
+              render: {
+                option: function(data, escape) {
+                  return '<div class="option">'+ escape(data["中文"]) + '<span class="text-muted"> (' +  escape(data["英文"]) + ')</span></div>';
+                }
+              }
+            });
+          }
+        });
+
+        $.ajax({
+          type: "GET",
+          url: "./data/item.csv",
+          dataType: "text",
+          success: function(data) {
+            item_data = Papa.parse(data,papa_config);
+            $('#item').selectize({
+              delimiter: ',',
+              persist: false,
+              options: item_data.data,
+              searchField: ['中文','英文'],
+              labelField: "中文",
+              valueField: "英文",
+              render: {
+                option: function(data, escape) {
+                  return '<div class="option">'+ escape(data["中文"]) + '<span class="text-muted"> (' +  escape(data["英文"]) + ')</span></div>';
+                }
+              }
+            });
+          }
+        });
+
+        $.ajax({
+          type: "GET",
+          url: "./data/record.csv",
+          dataType: "text",
+          success: function(data) {
+            record_data = Papa.parse(data,papa_config);
+          }
+        });
+
+        $('#plot').click(function(){
+          cur_type = $('#type option').val()
+          cur_target = $('#target option').val()
+          cur_item = $('#item option').val()
+          cur_data = record_data.data.filter(function(row) {
+            if(row["品項"]==cur_item && row["類別"]==cur_type){
+              return true;
+            }
+            else{
+              return false;
+            }
+          })
+          if(cur_data.length!=0){
+            plot_data = {}
+            cur_data.forEach(function(row){
+              plot_data[row['國家']]=row[cur_target]
+            })
+
+            $('#world-map').html("")
+            $('#world-map').vectorMap({
+              map: 'world_mill',
+              series: {
+                regions: [{
+                  values: plot_data,
+                  scale: ['#C8EEFF', '#0071A4'],
+                  normalizeFunction: 'polynomial'
+                }]
+              },
+              onRegionTipShow: function(e, el, code){
+                if(plot_data[code]!=undefined && cur_target=="價值"){
+                  el.html(el.html()+' (價值(新台幣:千元): ' + plot_data[code]+')');
+                }
+                else if(plot_data[code]!=undefined && cur_target=="重量"){
+                  el.html(el.html()+' (重量(公斤): ' + plot_data[code]+')');
+                }
+              }
+            });
+          }
+
+        })
+      });
+    </script>
+  </body>
+</html>

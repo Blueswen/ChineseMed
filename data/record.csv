@@ -1,0 +1,780 @@
+年度,國家,品項,類別,重量,價值
+104,JP," Wood ears (Auricularia spp.) , dried",I,40,50
+104,TH," Wood ears (Auricularia spp.) , dried",I,"888,008","67,133"
+104,MY," Wood ears (Auricularia spp.) , dried",I,"5,279",547
+104,VN," Wood ears (Auricularia spp.) , dried",I,"373,444","29,753"
+104,CN, Lily bulb dried,I,"104,529","5,062"
+104,CN," Yam, dried",I,"423,226","37,485"
+104,VN," Yam, dried",I,"43,740","3,472"
+104,JP," Yam, fresh or chilled",I,"3,342,218","294,794"
+104,JP," Yam, frozen",I,"1,775",446
+104,VN," Yam, frozen",I,"30,901",381
+104,CN," Lotus seeds, fresh or dried",I,"1,271,307","69,949"
+104,VN," Lotus seeds, fresh or dried",I,"213,533","10,590"
+104,CN," Wu Mei (Fructus Mume Praeparatus), dried, in bulk",I,"223,746","6,106"
+104,TR," Crataegi Fructus, dried",I,36,38
+104,CN," Crataegi Fructus, dried",I,"306,571","6,344"
+104,CN," Nutmegs, neither crushed nor ground",I,"2,732",138
+104,ID," Nutmegs, neither crushed nor ground",I,"8,565","1,682"
+104,IN," Nutmegs, neither crushed nor ground",I,"15,249","5,483"
+104,ES," Nutmegs, neither crushed nor ground",I,30,39
+104,US," Nutmegs, neither crushed nor ground",I,35,40
+104,GB," Nutmegs, neither crushed nor ground",I,18,38
+104,GD," Nutmegs, neither crushed nor ground",I,20,42
+104,CN," Nutmegs, crushed or ground",I,142,13
+104,JP," Nutmegs, crushed or ground",I,10,13
+104,IN," Nutmegs, crushed or ground",I,"1,370",848
+104,ES," Nutmegs, crushed or ground",I,27,23
+104,US," Nutmegs, crushed or ground",I,8,8
+104,GB," Nutmegs, crushed or ground",I,28,60
+104,LK," Nutmegs, crushed or ground",I,6,7
+104,IT," Nutmegs, crushed or ground",I,4,3
+104,IN," Mace, neither crushed nor ground",I,100,27
+104,LK," Mace, neither crushed nor ground",I,300,138
+104,VN," Mace, crushed or ground",I,80,67
+104,CN," Cardamoms, brown, neither crushed nor ground",I,"1,524",129
+104,GT," Cardamoms, brown, neither crushed nor ground",I,1,1
+104,IN," Cardamoms, brown, neither crushed nor ground",I,490,371
+104,CN," Cardamoms(Amomi Fructus), inferior, neither crushed nor ground",I,"43,188","15,892"
+104,GT," Cardamoms(Amomi Fructus), inferior, neither crushed nor ground",I,"5,000","1,960"
+104,LA," Cardamoms(Amomi Fructus), inferior, neither crushed nor ground",I,"11,470",938
+104,MY," Cardamoms(Amomi Fructus), inferior, crushed or ground",I,60,52
+104,CN," Seeds of cumin, neither crushed nor ground",I,"69,441","7,835"
+104,PK," Seeds of cumin, neither crushed nor ground",I,140,13
+104,IN," Seeds of cumin, neither crushed nor ground",I,"22,188","1,339"
+104,EG," Seeds of cumin, neither crushed nor ground",I,"5,505",172
+104,IT," Seeds of cumin, neither crushed nor ground",I,63,86
+104,DE," Seeds of cumin, neither crushed nor ground",I,12,22
+104,MM," Seeds of cumin, neither crushed nor ground",I,60,2
+104,PK," Seeds of cumin, crushed or ground",I,120,12
+104,JP," Seeds of cumin, crushed or ground",I,40,19
+104,IN," Seeds of cumin, crushed or ground",I,"3,000",253
+104,MY," Seeds of cumin, crushed or ground",I,"1,330",466
+104,CN," Star anise fructus, neither crushed nor ground",I,"250,415","23,548"
+104,PK," Star anise fructus, neither crushed nor ground",I,5,1
+104,VN," Star anise fructus, neither crushed nor ground",I,"43,360","2,635"
+104,CN," Star anise fructus, crushed or ground",I,"116,025","7,922"
+104,MY," Star anise fructus, crushed or ground",I,140,74
+104,VN," Star anise fructus, crushed or ground",I,"5,000",303
+104,CN, Polygonati Rhizoma,I,"27,724","1,697"
+104,CN, Gou Chi T'zu (Fructus Llycii),I,"2,024,918","217,864"
+104,CN," Chrysanthemum morifolium Ramat, dried",I,"36,110","3,135"
+104,HR," Chrysanthemum morifolium Ramat, dried",I,26,13
+104,ZZ," Chrysanthemum morifolium Ramat, dried",I,60,401
+104,US," Chrysanthemum morifolium Ramat, dried",I,15,41
+104,DE," Chrysanthemum morifolium Ramat, dried",I,54,60
+104,CN," Peppermint,fresh or dried.",I,"12,001","1,527"
+104,IL," Peppermint,fresh or dried.",I,4,9
+104,IN," Peppermint,fresh or dried.",I,2,3
+104,ES," Peppermint,fresh or dried.",I,2,2
+104,PL," Peppermint,fresh or dried.",I,11,28
+104,US," Peppermint,fresh or dried.",I,357,274
+104,GB," Peppermint,fresh or dried.",I,116,197
+104,EG," Peppermint,fresh or dried.",I,"1,063",298
+104,LK," Peppermint,fresh or dried.",I,116,178
+104,RS," Peppermint,fresh or dried.",I,35,16
+104,CH," Peppermint,fresh or dried.",I,4,5
+104,DE," Peppermint,fresh or dried.",I,"9,638","2,215"
+104,MA," Peppermint,fresh or dried.",I,2,1
+104,CN," Euryales,fresh or dried.",I,"216,034","13,716"
+104,CN, Fiveleaf gynostemma,I,"19,992",705
+104,VN," Longan, otherwise prepared or preserved",I,"2,000",131
+104,CN," K'o Chiai (Gecko Gecko), dried",I,366,418
+104,TH," K'o Chiai (Gecko Gecko), dried",I,"28,853","14,751"
+104,CN," Hai lung (Syngnathus), dried",I,"1,897",57
+104,TH," Hai Ma (Hippocampus), dried",I,60,381
+104,CN, Pieh Chia K'o (Amydae carapax) (incl. for Chinese drugs),I,"31,018","2,936"
+104,CN," Tortoise shell, Terrapin plastron (incl. for Chinese drugs)",I,"93,271","14,297"
+104,ID," Tortoise shell, Terrapin plastron (incl. for Chinese drugs)",I,"124,673","19,027"
+104,CN," Antlers (incl, for Chinese drugs)",I,"133,354","17,379"
+104,ES," Antlers (incl, for Chinese drugs)",I,"127,641","17,194"
+104,CZ," Antlers (incl, for Chinese drugs)",I,"103,457","12,896"
+104,RU," Antlers (incl, for Chinese drugs)",I,"118,583","12,557"
+104,FI," Antlers (incl, for Chinese drugs)",I,"77,952","9,653"
+104,AT," Antlers (incl, for Chinese drugs)",I,"58,980","6,396"
+104,PL," Antlers (incl, for Chinese drugs)",I,"48,747","6,160"
+104,ID," Antlers (incl, for Chinese drugs)",I,"29,700","2,813"
+104,DE," Antlers (incl, for Chinese drugs)",I,"23,693","2,494"
+104,SK," Antlers (incl, for Chinese drugs)",I,"20,413","2,370"
+104,SE," Antlers (incl, for Chinese drugs)",I,"10,123","1,106"
+104,JP," Antlers (incl, for Chinese drugs)",I,"2,000",331
+104,NZ, Lu Jung (Cervi parvum cornu) (incl. for Chinese drugs),I,588,803
+104,NZ, Ambergris,I,0,58
+104,AU, Bezoar (incl. cow bezoar and monkey bezoar) (incl. for Chinese drugs),I,16,393
+104,CN, Chen Hsieh (Bathus),I,"1,892",502
+104,ID, Chen Hsieh (Bathus),I,393,198
+104,ML, Chen Hsieh (Bathus),I,51,53
+104,CN, Chiu Hsiang Chung (Coridius),I,360,13
+104,CN, Wu Ko Chung (Chrysomyiae Larva),I,304,20
+104,CN, Other arthropoda drugs,I,"23,242","6,659"
+104,ID, Other arthropoda drugs,I,681,693
+104,CN, Shui Chih (Hirudo),I,274,22
+104,TH, Shui Chih (Hirudo),I,342,16
+104,CN, Ti Lung (Lumbricus),I,"3,398",287
+104,JP, Ti Lung (Lumbricus),I,2,118
+104,TH, Ti Lung (Lumbricus),I,"22,011","1,724"
+104,CN, Pearls for medical use,I,"8,017","1,152"
+104,CN, Other invertebrates drugs,I,"96,867","2,363"
+104,IN, Other invertebrates drugs,I,"3,140",320
+104,CN, Other vertebrates drugs,I,"3,145",370
+104,ID, Other vertebrates drugs,I,"1,236",457
+104,CN, Silkworm (incl. for Chinese drugs),I,"17,052","10,452"
+104,CN," Arrowroot, fresh, chilled or dried",I,"157,796","7,853"
+104,CN, Lu Chiao Chiao (Cervi Cornus Colla),I,"4,255","2,026"
+104,CN," Bitter almonds, shelled, fresh or dried",I,"431,979","31,299"
+104,CN," Ginkgo (white nuts), fresh or dried",I,"98,430","6,743"
+104,JP," Ginkgo (white nuts), fresh or dried",I,"1,573",312
+104,KR," Ginkgo (white nuts), fresh or dried",I,580,111
+104,CN," Red dates, dried.or Chinese jujubes (red). (incl. for Chinese drugs)",I,"3,105,593","146,232"
+104,TR, Kuang Chu P'i (Citri Chachiensis Pericarpium),I,"10,005",734
+104,CN, Kuang Chu P'i (Citri Chachiensis Pericarpium),I,"324,183","8,330"
+104,TR," Cinnamon (Cinnamomum zeylanicum Blume), neither crushed nor ground",I,5,2
+104,ID," Cinnamon (Cinnamomum zeylanicum Blume), neither crushed nor ground",I,"10,350","1,068"
+104,LK," Cinnamon (Cinnamomum zeylanicum Blume), neither crushed nor ground",I,3,3
+104,DE," Cinnamon (Cinnamomum zeylanicum Blume), neither crushed nor ground",I,47,284
+104,VN," Cinnamon-tree flowers and other cinnamon, neither crushed nor ground",I,"887,831","54,105"
+104,CN," Cinnamon-tree flowers and other cinnamon, neither crushed nor ground",I,"757,193","28,184"
+104,ID," Cinnamon-tree flowers and other cinnamon, neither crushed nor ground",I,"23,211","1,099"
+104,LK," Cinnamon-tree flowers and other cinnamon, neither crushed nor ground",I,110,58
+104,IT," Cinnamon-tree flowers and other cinnamon, neither crushed nor ground",I,14,43
+104,US," Cinnamon-tree flowers and other cinnamon, neither crushed nor ground",I,16,26
+104,PK," Cinnamon-tree flowers and other cinnamon, neither crushed nor ground",I,56,4
+104,IN," Cinnamon-tree flowers and other cinnamon, neither crushed nor ground",I,20,1
+104,CN," Cinnamon and cinnamon-tree flowers, crushed or ground",I,"115,281","3,491"
+104,JP," Cinnamon and cinnamon-tree flowers, crushed or ground",I,82,40
+104,IL," Cinnamon and cinnamon-tree flowers, crushed or ground",I,27,14
+104,ID," Cinnamon and cinnamon-tree flowers, crushed or ground",I,"48,571","1,445"
+104,IN," Cinnamon and cinnamon-tree flowers, crushed or ground",I,"1,750",273
+104,ES," Cinnamon and cinnamon-tree flowers, crushed or ground",I,67,41
+104,US," Cinnamon and cinnamon-tree flowers, crushed or ground",I,"1,435",370
+104,GB," Cinnamon and cinnamon-tree flowers, crushed or ground",I,47,49
+104,MY," Cinnamon and cinnamon-tree flowers, crushed or ground",I,"1,200",301
+104,LK," Cinnamon and cinnamon-tree flowers, crushed or ground",I,400,220
+104,VN," Cinnamon and cinnamon-tree flowers, crushed or ground",I,"51,483","5,945"
+104,IT," Cinnamon and cinnamon-tree flowers, crushed or ground",I,55,66
+104,DE," Cinnamon and cinnamon-tree flowers, crushed or ground",I,11,40
+104,CN," Cloves (whole fruit, cloves and stems), neither crushed nor ground",I,"12,352",614
+104,ID," Cloves (whole fruit, cloves and stems), neither crushed nor ground",I,"99,804","3,340"
+104,IN," Cloves (whole fruit, cloves and stems), neither crushed nor ground",I,1,1
+104,ES," Cloves (whole fruit, cloves and stems), neither crushed nor ground",I,14,13
+104,US," Cloves (whole fruit, cloves and stems), neither crushed nor ground",I,0,2
+104,GB," Cloves (whole fruit, cloves and stems), neither crushed nor ground",I,24,41
+104,MY," Cloves (whole fruit, cloves and stems), neither crushed nor ground",I,"2,156",619
+104,MG," Cloves (whole fruit, cloves and stems), neither crushed nor ground",I,"74,077","9,051"
+104,LK," Cloves (whole fruit, cloves and stems), neither crushed nor ground",I,"5,640",398
+104,IT," Cloves (whole fruit, cloves and stems), neither crushed nor ground",I,3,4
+104,KM," Cloves (whole fruit, cloves and stems), neither crushed nor ground",I,"1,948",252
+104,US," Cloves (whole fruit, cloves and stems), crushed or ground",I,181,135
+104,MY," Cloves (whole fruit, cloves and stems), crushed or ground",I,100,130
+104,MG," Cloves (whole fruit, cloves and stems), crushed or ground",I,"1,000",459
+104,LK," Cloves (whole fruit, cloves and stems), crushed or ground",I,100,24
+104,TR," Seeds of anise, neither crushed nor ground",I,"1,000",117
+104,CN," Seeds of anise, neither crushed nor ground",I,"262,608","15,231"
+104,US," Seeds of anise, neither crushed nor ground",I,11,13
+104,VN," Seeds of anise, neither crushed nor ground",I,"8,250",384
+104,IT," Seeds of anise, neither crushed nor ground",I,32,43
+104,TR," Seeds of anise, crushed or ground",I,20,24
+104,CN," Seeds of anise, crushed or ground",I,"50,120","3,516"
+104,US," Seeds of anise, crushed or ground",I,181,49
+104,MY," Seeds of anise, crushed or ground",I,10,2
+104,VN," Seeds of anise, crushed or ground",I,"4,376",329
+104,DE," Seeds of anise, crushed or ground",I,4,17
+104,IR, Saffron,I,"1,306","22,176"
+104,ES, Saffron,I,"2,695","21,684"
+104,PT, Saffron,I,364,"10,669"
+104,CN, Saffron,I,"19,013","8,337"
+104,IT, Saffron,I,27,625
+104,GR, Saffron,I,0,41
+104,FR, Saffron,I,1,18
+104,US, Saffron,I,0,13
+104,IN, Saffron,I,0,12
+104,CN, Turmeric (curcuma),I,"127,144","4,994"
+104,PK, Turmeric (curcuma),I,"1,825",117
+104,JP, Turmeric (curcuma),I,460,591
+104,IL, Turmeric (curcuma),I,30,14
+104,ID, Turmeric (curcuma),I,"28,195",588
+104,IN, Turmeric (curcuma),I,"266,430","15,454"
+104,US, Turmeric (curcuma),I,738,902
+104,TH, Turmeric (curcuma),I,"1,339",347
+104,MY, Turmeric (curcuma),I,"21,600","1,253"
+104,LK, Turmeric (curcuma),I,"1,719",308
+104,VN, Turmeric (curcuma),I,"4,380",271
+104,IT, Turmeric (curcuma),I,86,86
+104,MM, Turmeric (curcuma),I,509,31
+104,AU, Turmeric (curcuma),I,216,352
+104,CN, Mustard seeds,I,4,122
+104,CA, Mustard seeds,I,139,"5,891"
+104,IN, Mustard seeds,I,5,121
+104,CN," Huo Ma Jen (Cannabis Fructus) for Chinese medicine use, without germinative activeness",I,13,"1,456"
+104,CN," Other Huo Ma Jen (Cannabis Fructus), without germinative activeness",I,52,992
+104,CN," Chie Lin ginseng (incl. fibrous roots, stems, broken ginseng)",I,"406,433","554,629"
+104,KP," Radix ginseng rubra (Korea) (incl. fibrous roots, stems, broken ginseng)",I,"4,176","46,661"
+104,KR," Radix ginseng rubra (Korea) (incl. fibrous roots, stems, broken ginseng)",I,"28,935","275,059"
+104,KR," Radix ginseng alba (Korea) (incl. fibrous roots, stems, broken ginseng)",I,"34,447","65,542"
+104,JP," Radix ginseng rubra (Japan) (incl. fibrous roots, stems, broken ginseng)",I,712,733
+104,JP," Radix ginseng alba (Japan) (incl. fibrous roots, stems, broken ginseng)",I,815,923
+104,CN, Pao Shen (American ginseng),I,"1,200","2,945"
+104,CA, Pao Shen (American ginseng),I,"24,011","53,482"
+104,US, Pao Shen (American ginseng),I,"2,810","31,088"
+104,CA," Pao Shen Wei, Hsu, I Chung Shen (Radix ginseng)",I,"84,359","171,789"
+104,US," Pao Shen Wei, Hsu, I Chung Shen (Radix ginseng)",I,725,"1,042"
+104,CN," I Chung Shen Wei, Hsu (ginseng radix)",I,108,251
+104,CA," I Chung Shen Wei, Hsu (ginseng radix)",I,"11,289","18,101"
+104,CN, Tien Ch'i (Radix Pseudoginseng),I,"103,744","28,288"
+104,CN, Yuan Ch'i Wei (Radicis Pseudoginseng),I,"3,173",460
+104,CN, Other ginseng roots,I,60,108
+104,KR, Other ginseng roots,I,"3,386","8,757"
+104,CN, Sandalwood,I,"19,020",303
+104,ID, Sandalwood,I,150,2
+104,NC, Sandalwood,I,"26,340","4,383"
+104,VU, Sandalwood,I,"2,700",37
+104,AU, Sandalwood,I,"408,887","11,799"
+104,ID, Ch'en Hsiang (Lignum Aqailariae),I,"430,778","60,829"
+104,MY, Ch'en Hsiang (Lignum Aqailariae),I,"64,915","19,238"
+104,VN, Ch'en Hsiang (Lignum Aqailariae),I,"34,532","12,596"
+104,TH, Ch'en Hsiang (Lignum Aqailariae),I,"463,671","10,828"
+104,CN, Tu Chung (Cortex Eucommiae),I,"349,296","20,600"
+104,CN, P'o Tu'ng (Cortex Magnoliae),I,"17,616","1,135"
+104,CN," P'o Ken, p'o Hua (Cortex Magnoliae)",I,"1,148",81
+104,CN, Fan Hsieh Yeh (Folium Sennae),I,"9,562",347
+104,JP, Fan Hsieh Yeh (Folium Sennae),I,600,158
+104,ID, Fan Hsieh Yeh (Folium Sennae),I,"2,000",19
+104,IN, Fan Hsieh Yeh (Folium Sennae),I,"88,092","2,229"
+104,CN, Pai Ts'ao (Folium Agastaches),I,"13,629","1,513"
+104,CN, T'u Fu Ling (Rhizoma Similacis Glabrae),I,"25,158","1,705"
+104,CN," China root, P'ing P'ien (Poria)",I,"643,104","49,537"
+104,CN," China root, Ch'ieh P'ien Szu (Poria)",I,"170,761","9,679"
+104,CN," Fang Fu Ling, Fu Shen, P'i Fu Ling (Poria)",I,"23,285","2,758"
+104,CN, Ta Huang (Rhizoma Rhei),I,"228,283","22,851"
+104,JP, Ta Huang (Rhizoma Rhei),I,490,179
+104,CN, Huang Lien (Rhizoma Coptidis),I,"147,039","40,179"
+104,CN, Ch'uan Kung (Rhizoma Ligustici Wallichii),I,"696,425","53,377"
+104,CN, Pai Chu (Rhizoma Atractylodis Macrocephalae),I,"394,102","31,722"
+104,CN," Hey, Pai Fu P'ien Hsiao Hy Fu P'ien (Rhizoma Typhonii)",I,"46,498","15,687"
+104,CN, P'ei Fu P'ien (Rhizoma Typhonii),I,"32,605","7,384"
+104,CN, Wo Shu (Rhizoma Zedoariae),I,"19,106","1,065"
+104,CN, Kao Liang Chiang (Rhizoma Alpiniae Officinari),I,"49,342","2,296"
+104,TH, Kao Liang Chiang (Rhizoma Alpiniae Officinari),I,"18,270",576
+104,CN, Pan Hsia (Tuber Pinelliae),I,"235,716","110,675"
+104,CN, T'ien Ma (Rhizoma Gastrodiae),I,"65,121","11,245"
+104,CN, Chih Mu (Rhizoma Anemarrhenae),I,"70,598","4,448"
+104,CN, Niu Hsi (Achyranthis Radix) Ch'uan Niu T'ou Tu Niu Ch'i (Radix Cyathulae),I,"190,925","12,100"
+104,CN, Yin Ch'ai Hu (Radix Stellariae Dichatomae),I,92,42
+104,CN, Ch'ai Hu (Radix Bupleuri),I,"297,853","149,728"
+104,CN, Pai Shau (Radix Paeonige Alba),I,"665,963","48,456"
+104,CN, Tai Chi (Radix Euphorbiae),I,31,38
+104,CN, Huang Ch'in (Radix Scutellariae),I,"278,688","25,595"
+104,CN, Tan Shen (Radix Salvia Multiorrhiza),I,"141,820","10,124"
+104,CN, Hsuan Sheng (Yuang Sheng) (Radix Scrophulariae),I,"69,640","3,942"
+104,CN, Pei Sa Sheng (Radix Glehniae),I,"47,726","3,422"
+104,CN, Ti Huang (Radix et Rhizoma Rehmanniae),I,"824,799","42,784"
+104,CN, Huang Chi (Radix Astragali),I,"1,957,722","184,127"
+104,CN, I T'iao Ken (Radix Moghaniae),I,"48,731","1,612"
+104,CN, Fang Feng (Radix Ledebouriellae),I,"124,309","58,646"
+104,CN, Tang K'uei (Radix Angelicae Sinensis),I,"1,258,413","147,890"
+104,CN, Tang Sheng (Codonopsitis Pilosulae Radix),I,"555,168","85,422"
+104,CN," Putchuck, old (Radix Saussureae)",I,"5,000",460
+104,CN, Chi Kuan Hua (Flos Celosiae Cristatae),I,728,33
+104,CN, Hsin I (Flos Magnoliae Liliforae),I,"35,562","5,709"
+104,CN, Suan Tsao Jen (Semen Zizyphi Spinosae),I,"134,550","56,416"
+104,CN, Erh Ch'a (Catechu),I,"1,314",26
+104,ID, Erh Ch'a (Catechu),I,"65,086","5,883"
+104,IN, Erh Ch'a (Catechu),I,"5,040",50
+104,CN, Lo Han Kuo (Momordicae Fructus),I,"53,054","6,626"
+104,CN, Ta Fu P'i (Pericarpium Arecae),I,"18,631",609
+104,CN," Betelnuts, dried (Ta-Fu-Tzu)",I,"3,749",194
+104,ID," Betelnuts, dried (Ta-Fu-Tzu)",I,"3,000",25
+104,IN," Betelnuts, dried (Ta-Fu-Tzu)",I,"3,000",28
+104,CN, Liquorice roots,I,"1,128,050","107,058"
+104,PK, Liquorice roots,I,"299,090","18,349"
+104,UZ, Liquorice roots,I,"262,105","15,919"
+104,KG, Liquorice roots,I,"33,430","2,119"
+104,AF, Liquorice roots,I,"20,290","1,653"
+104,DE, Liquorice roots,I,"2,497",544
+104,ES, Liquorice roots,I,5,3
+104,BT," Other plants and parts of plants (including seeds and fruits), used for pharmacy, whether or not cut, crushed or powdered, dried",I,1,100
+104,CN," Other plants and parts of plants (including seeds and fruits), used for pharmacy, whether or not cut, crushed or powdered, dried",I,"8,969,807","925,602"
+104,PY," Other plants and parts of plants (including seeds and fruits), used for pharmacy, whether or not cut, crushed or powdered, dried",I,350,73
+104,PK," Other plants and parts of plants (including seeds and fruits), used for pharmacy, whether or not cut, crushed or powdered, dried",I,"313,035","14,312"
+104,JP," Other plants and parts of plants (including seeds and fruits), used for pharmacy, whether or not cut, crushed or powdered, dried",I,"5,949","4,500"
+104,IR," Other plants and parts of plants (including seeds and fruits), used for pharmacy, whether or not cut, crushed or powdered, dried",I,504,316
+104,ID," Other plants and parts of plants (including seeds and fruits), used for pharmacy, whether or not cut, crushed or powdered, dried",I,"81,802","6,083"
+104,IN," Other plants and parts of plants (including seeds and fruits), used for pharmacy, whether or not cut, crushed or powdered, dried",I,"1,957,750","78,316"
+104,ES," Other plants and parts of plants (including seeds and fruits), used for pharmacy, whether or not cut, crushed or powdered, dried",I,350,373
+104,BG," Other plants and parts of plants (including seeds and fruits), used for pharmacy, whether or not cut, crushed or powdered, dried",I,"2,693",23
+104,US," Other plants and parts of plants (including seeds and fruits), used for pharmacy, whether or not cut, crushed or powdered, dried",I,300,867
+104,TH," Other plants and parts of plants (including seeds and fruits), used for pharmacy, whether or not cut, crushed or powdered, dried",I,"78,765","3,983"
+104,VN," Other plants and parts of plants (including seeds and fruits), used for pharmacy, whether or not cut, crushed or powdered, dried",I,"63,283","3,208"
+104,LA," Other plants and parts of plants (including seeds and fruits), used for pharmacy, whether or not cut, crushed or powdered, dried",I,120,1
+104,DE," Other plants and parts of plants (including seeds and fruits), used for pharmacy, whether or not cut, crushed or powdered, dried",I,"1,172",175
+104,MA," Other plants and parts of plants (including seeds and fruits), used for pharmacy, whether or not cut, crushed or powdered, dried",I,"2,500",720
+104,CN, Myrrh gum,I,"39,722","11,614"
+104,CN, Olibanum gum,I,"22,922","1,554"
+104,CN, Gum asafoetida,I,180,5
+104,CN, Dragon's-blood gum,I,"1,920",377
+104,ID, Dragon's-blood gum,I,"1,300",247
+104,SG, Dragon's-blood gum,I,700,141
+104,CN, Shen Chu,I,"19,352","2,183"
+104,CN," Natural arsenic sulphides (hartall orpiment and realgar) and amber (including agglomerated), crushed, for medicinal use",I,"6,772",285
+104,CN," Medicinal substances, mineral, crude",I,"179,168","2,729"
+104,CN," Borneol, champhor baroos",I,"22,791","3,080"
+104,JP," Borneol, champhor baroos",I,580,370
+104,ID," Borneol, champhor baroos",I,120,36
+104,IN," Borneol, champhor baroos",I,0,3
+104,HK," Borneol, champhor baroos",I,216,222
+104,CH," Borneol, champhor baroos",I,0,1
+104,CN," Hominis placenta, dried",I,435,25
+104,CN, A Chiao (Corii Asini Colla),I,"51,556","61,457"
+104,CN," Other gingers, neither crushed nor ground",I,"158,072","9,777"
+104,JP," Other gingers, neither crushed nor ground",I,20,11
+104,ID," Other gingers, neither crushed nor ground",I,"92,930","5,078"
+104,IN," Other gingers, neither crushed nor ground",I,9,2
+104,TH," Other gingers, neither crushed nor ground",I,"2,368",217
+104,PE," Other gingers, neither crushed nor ground",I,"5,000",669
+104,MY," Other gingers, neither crushed nor ground",I,500,48
+104,CN," Other gingers, crushed or ground",I,40,1
+104,JP," Other gingers, crushed or ground",I,97,56
+104,ID," Other gingers, crushed or ground",I,27,5
+104,IN," Other gingers, crushed or ground",I,29,46
+104,US," Other gingers, crushed or ground",I,17,41
+104,GB," Other gingers, crushed or ground",I,34,68
+104,TH," Other gingers, crushed or ground",I,"27,470","13,219"
+104,MY," Other gingers, crushed or ground",I,"1,010",244
+104,LK," Other gingers, crushed or ground",I,317,87
+104,VN," Other gingers, crushed or ground",I,"25,650",393
+104,LA," Other gingers, crushed or ground",I,"3,550",113
+104,DE," Other gingers, crushed or ground",I,"5,300","1,537"
+104,CN, Tse Pei Mu (Bulbus Fritillariae Thunbergii),I,"106,576","20,430"
+104,CN, Sheng Tien Hsiung (Rhizoma Typhonii),I,625,16
+104,SG," Wood ears (Auricularia spp.) , dried",O,"1,666",574
+104,CA," Wood ears (Auricularia spp.) , dried",O,586,541
+104,US," Wood ears (Auricularia spp.) , dried",O,902,395
+104,JP," Wood ears (Auricularia spp.) , dried",O,"1,237",317
+104,HK," Wood ears (Auricularia spp.) , dried",O,406,206
+104,CN," Wood ears (Auricularia spp.) , dried",O,116,185
+104,SA," Wood ears (Auricularia spp.) , dried",O,250,148
+104,MY," Wood ears (Auricularia spp.) , dried",O,224,109
+104,TH," Wood ears (Auricularia spp.) , dried",O,61,98
+104,AU," Wood ears (Auricularia spp.) , dried",O,93,91
+104,MU," Wood ears (Auricularia spp.) , dried",O,120,49
+104,PW," Wood ears (Auricularia spp.) , dried",O,200,46
+104,CL," Wood ears (Auricularia spp.) , dried",O,70,36
+104,BR," Wood ears (Auricularia spp.) , dried",O,84,35
+104,SZ," Wood ears (Auricularia spp.) , dried",O,120,32
+104,AR," Wood ears (Auricularia spp.) , dried",O,50,29
+104,NZ," Wood ears (Auricularia spp.) , dried",O,66,22
+104,LS," Wood ears (Auricularia spp.) , dried",O,92,17
+104,AE," Wood ears (Auricularia spp.) , dried",O,35,11
+104,ZA," Wood ears (Auricularia spp.) , dried",O,31,10
+104,CI," Wood ears (Auricularia spp.) , dried",O,50,10
+104,BN," Wood ears (Auricularia spp.) , dried",O,48,9
+104,BD," Wood ears (Auricularia spp.) , dried",O,22,9
+104,FJ," Wood ears (Auricularia spp.) , dried",O,26,9
+104,GU," Wood ears (Auricularia spp.) , dried",O,5,8
+104,MO," Wood ears (Auricularia spp.) , dried",O,1,2
+104,BE, Lily bulb dried,O,4,2
+104,US, Lily bulb dried,O,10,7
+104,US," Yam, dried",O,566,644
+104,ZA," Yam, dried",O,504,36
+104,BN," Yam, dried",O,22,12
+104,MY," Yam, dried",O,16,7
+104,MH," Yam, dried",O,6,2
+104,SG," Yam, fresh or chilled",O,600,87
+104,AU," Yam, fresh or chilled",O,26,7
+104,HK," Yam, fresh or chilled",O,30,2
+104,BR," Lotus seeds, fresh or dried",O,377,196
+104,US," Lotus seeds, fresh or dried",O,532,179
+104,HK," Lotus seeds, fresh or dried",O,349,89
+104,CA," Lotus seeds, fresh or dried",O,494,72
+104,SG," Lotus seeds, fresh or dried",O,138,37
+104,AU," Lotus seeds, fresh or dried",O,55,33
+104,NZ," Lotus seeds, fresh or dried",O,72,29
+104,MY," Lotus seeds, fresh or dried",O,59,28
+104,CR," Lotus seeds, fresh or dried",O,33,9
+104,CN," Lotus seeds, fresh or dried",O,14,2
+104,BD," Lotus seeds, fresh or dried",O,3,1
+104,CN," Wu Mei (Fructus Mume Praeparatus), dried, in bulk",O,333,39
+104,CA," Wu Mei (Fructus Mume Praeparatus), dried, in bulk",O,36,7
+104,US," Wu Mei (Fructus Mume Praeparatus), dried, in bulk",O,202,175
+104,US," Crataegi Fructus, dried",O,"1,132",512
+104,CN," Crataegi Fructus, dried",O,"1,925",291
+104,MY," Crataegi Fructus, dried",O,488,112
+104,ID," Crataegi Fructus, dried",O,94,15
+104,ZA," Crataegi Fructus, dried",O,47,9
+104,CA," Crataegi Fructus, dried",O,47,7
+104,BE," Cardamoms(Amomi Fructus), inferior, crushed or ground",O,10,11
+104,US," Cardamoms(Amomi Fructus), inferior, crushed or ground",O,6,8
+104,NL," Cardamoms(Amomi Fructus), inferior, crushed or ground",O,6,7
+104,PW," Seeds of cumin, neither crushed nor ground",O,1,2
+104,MY," Seeds of cumin, neither crushed nor ground",O,20,12
+104,HK," Seeds of cumin, crushed or ground",O,105,70
+104,PW," Star anise fructus, neither crushed nor ground",O,5,2
+104,ZA," Star anise fructus, neither crushed nor ground",O,7,4
+104,HK," Star anise fructus, neither crushed nor ground",O,9,4
+104,CL," Star anise fructus, neither crushed nor ground",O,14,10
+104,SG," Star anise fructus, neither crushed nor ground",O,7,5
+104,AU," Star anise fructus, neither crushed nor ground",O,20,18
+104,CN," Star anise fructus, crushed or ground",O,17,8
+104,KH," Star anise fructus, crushed or ground",O,4,6
+104,US," Star anise fructus, crushed or ground",O,268,191
+104,CL," Star anise fructus, crushed or ground",O,18,4
+104,LS," Star anise fructus, crushed or ground",O,29,3
+104,US, Polygonati Rhizoma,O,5,5
+104,MY, Polygonati Rhizoma,O,11,5
+104,NL, Polygonati Rhizoma,O,28,19
+104,SG, Gou Chi T'zu (Fructus Llycii),O,"1,060",267
+104,CA, Gou Chi T'zu (Fructus Llycii),O,115,149
+104,MY, Gou Chi T'zu (Fructus Llycii),O,581,149
+104,HK, Gou Chi T'zu (Fructus Llycii),O,231,143
+104,GB, Gou Chi T'zu (Fructus Llycii),O,250,125
+104,BE, Gou Chi T'zu (Fructus Llycii),O,90,77
+104,CL, Gou Chi T'zu (Fructus Llycii),O,196,76
+104,US, Gou Chi T'zu (Fructus Llycii),O,70,58
+104,AU, Gou Chi T'zu (Fructus Llycii),O,30,29
+104,MO, Gou Chi T'zu (Fructus Llycii),O,18,23
+104,NL, Gou Chi T'zu (Fructus Llycii),O,25,21
+104,ES, Gou Chi T'zu (Fructus Llycii),O,6,5
+104,PW, Gou Chi T'zu (Fructus Llycii),O,25,4
+104,VN, Gou Chi T'zu (Fructus Llycii),O,14,4
+104,ZA, Gou Chi T'zu (Fructus Llycii),O,3,1
+104,HK," Chrysanthemum morifolium Ramat, dried",O,312,205
+104,US," Chrysanthemum morifolium Ramat, dried",O,110,191
+104,BR," Chrysanthemum morifolium Ramat, dried",O,95,82
+104,JP," Chrysanthemum morifolium Ramat, dried",O,6,75
+104,GB," Chrysanthemum morifolium Ramat, dried",O,44,55
+104,BE," Chrysanthemum morifolium Ramat, dried",O,20,24
+104,AU," Chrysanthemum morifolium Ramat, dried",O,9,20
+104,MY," Chrysanthemum morifolium Ramat, dried",O,8,10
+104,MO," Chrysanthemum morifolium Ramat, dried",O,7,10
+104,CL," Chrysanthemum morifolium Ramat, dried",O,1,6
+104,NL," Chrysanthemum morifolium Ramat, dried",O,4,5
+104,ID," Chrysanthemum morifolium Ramat, dried",O,1,2
+104,CA," Chrysanthemum morifolium Ramat, dried",O,1,1
+104,BE," Peppermint,fresh or dried.",O,40,26
+104,US," Peppermint,fresh or dried.",O,23,20
+104,MY," Peppermint,fresh or dried.",O,"4,172",365
+104,NL," Peppermint,fresh or dried.",O,22,14
+104,AU," Peppermint,fresh or dried.",O,2,1
+104,BR," Euryales,fresh or dried.",O,314,157
+104,MY," Euryales,fresh or dried.",O,3,1
+104,MY, Fiveleaf gynostemma,O,5,3
+104,SG, Fiveleaf gynostemma,O,1,2
+104,CN," Longan, otherwise prepared or preserved",O,55,12
+104,JP," Longan, otherwise prepared or preserved",O,120,164
+104,CA," Longan, otherwise prepared or preserved",O,"2,425",978
+104,US," Longan, otherwise prepared or preserved",O,"4,128","1,522"
+104,HK," Longan, otherwise prepared or preserved",O,267,89
+104,MY," Longan, otherwise prepared or preserved",O,318,53
+104,SG," Longan, otherwise prepared or preserved",O,318,45
+104,AU," Longan, otherwise prepared or preserved",O,30,13
+104,MY," Tortoise shell, Terrapin plastron (incl. for Chinese drugs)",O,1,2
+104,HK, Lu Chiao Shuang (Cornu cervi degelatimatum) (incl. for Chinese drugs),O,"82,838","13,049"
+104,AU, Lu Chiao Shuang (Cornu cervi degelatimatum) (incl. for Chinese drugs),O,2,3
+104,BE, Lu Chiao Shuang (Cornu cervi degelatimatum) (incl. for Chinese drugs),O,3,2
+104,US, Other arthropoda drugs,O,6,9
+104,NL, Other arthropoda drugs,O,42,62
+104,SG, Other arthropoda drugs,O,3,4
+104,MY, Ti Lung (Lumbricus),O,1,3
+104,HK, Pearls for medical use,O,18,54
+104,MY," Pearls crushed or powder, for medical use",O,240,768
+104,HK," Pearls crushed or powder, for medical use",O,41,197
+104,BE," Pearls crushed or powder, for medical use",O,85,141
+104,SG," Pearls crushed or powder, for medical use",O,30,102
+104,CA," Pearls crushed or powder, for medical use",O,10,12
+104,BE, Other invertebrates drugs,O,10,22
+104,AT, Other invertebrates drugs,O,5,9
+104,BE, Other vertebrates drugs,O,182,116
+104,CH, Silkworm (incl. for Chinese drugs),O,10,36
+104,MY," Arrowroot, fresh, chilled or dried",O,3,1
+104,BE, Lu Chiao Chiao (Cervi Cornus Colla),O,5,4
+104,HK," Bitter almonds, shelled, fresh or dried",O,13,5
+104,MH," Bitter almonds, shelled, fresh or dried",O,1,2
+104,PW," Ginkgo (white nuts), fresh or dried",O,72,2
+104,US," Ginkgo (white nuts), fresh or dried",O,19,2
+104,AT," Ginkgo (white nuts), fresh or dried",O,5,15
+104,HK," Red dates, dried.or Chinese jujubes (red). (incl. for Chinese drugs)",O,960,382
+104,MY," Red dates, dried.or Chinese jujubes (red). (incl. for Chinese drugs)",O,1592,460
+104,SG," Red dates, dried.or Chinese jujubes (red). (incl. for Chinese drugs)",O,1975,587
+104,CA," Red dates, dried.or Chinese jujubes (red). (incl. for Chinese drugs)",O,360,87
+104,CL," Red dates, dried.or Chinese jujubes (red). (incl. for Chinese drugs)",O,75,28
+104,AU," Red dates, dried.or Chinese jujubes (red). (incl. for Chinese drugs)",O,141,32
+104,CN," Red dates, dried.or Chinese jujubes (red). (incl. for Chinese drugs)",O,121,25
+104,BR," Red dates, dried.or Chinese jujubes (red). (incl. for Chinese drugs)",O,84,15
+104,MO," Red dates, dried.or Chinese jujubes (red). (incl. for Chinese drugs)",O,40,20
+104,US," Red dates, dried.or Chinese jujubes (red). (incl. for Chinese drugs)",O,7,4
+104,BZ," Red dates, dried.or Chinese jujubes (red). (incl. for Chinese drugs)",O,74,5
+104,VN," Red dates, dried.or Chinese jujubes (red). (incl. for Chinese drugs)",O,11,2
+104,HK," Red dates, dried.or Chinese jujubes (red). (incl. for Chinese drugs)",O,"1,041",310
+104,CA, Kuang Chu P'i (Citri Chachiensis Pericarpium),O,154,198
+104,SZ," Cinnamon-tree flowers and other cinnamon, neither crushed nor ground",O,18,3
+104,PW," Cinnamon-tree flowers and other cinnamon, neither crushed nor ground",O,3,2
+104,ZA," Cinnamon-tree flowers and other cinnamon, neither crushed nor ground",O,105,20
+104,US," Cinnamon-tree flowers and other cinnamon, neither crushed nor ground",O,4,8
+104,US," Cinnamon and cinnamon-tree flowers, crushed or ground",O,"1,092","1,330"
+104,MY," Cinnamon and cinnamon-tree flowers, crushed or ground",O,626,163
+104,BR," Cinnamon and cinnamon-tree flowers, crushed or ground",O,"1,050",58
+104,BE," Cinnamon and cinnamon-tree flowers, crushed or ground",O,35,45
+104,CN," Cinnamon and cinnamon-tree flowers, crushed or ground",O,28,25
+104,KH," Cinnamon and cinnamon-tree flowers, crushed or ground",O,9,7
+104,AU," Cinnamon and cinnamon-tree flowers, crushed or ground",O,4,6
+104,HK," Cloves (whole fruit, cloves and stems), neither crushed nor ground",O,45,2
+104,US," Cloves (whole fruit, cloves and stems), crushed or ground",O,47,39
+104,CA," Seeds of anise, crushed or ground",O,13,2
+104,HK, Saffron,O,4,8
+104,TT, Turmeric (curcuma),O,9,24
+104,CN, Turmeric (curcuma),O,35,14
+104,BE, Turmeric (curcuma),O,5,3
+104,US, Turmeric (curcuma),O,433,431
+104,MY, Turmeric (curcuma),O,22,12
+104,NL, Turmeric (curcuma),O,5,3
+104,SG, Mustard seeds,O,0,487
+104,US, Mustard seeds,O,0,301
+104,JP, Mustard seeds,O,0,53
+104,XG, Mustard seeds,O,0,10
+104,VN, Mustard seeds,O,0,8
+104,NC, Mustard seeds,O,0,7
+104,XK, Mustard seeds,O,0,5
+104,AS, Mustard seeds,O,0,4
+104,NL, Mustard seeds,O,0,4
+104,NZ, Mustard seeds,O,0,2
+104,US," Huo Ma Jen (Cannabis Fructus) for Chinese medicine use, without germinative activeness",O,0,9
+104,HK," Chie Lin ginseng (incl. fibrous roots, stems, broken ginseng)",O,"19,638","180,771"
+104,MY," Chie Lin ginseng (incl. fibrous roots, stems, broken ginseng)",O,"6,503","69,699"
+104,JP," Chie Lin ginseng (incl. fibrous roots, stems, broken ginseng)",O,"4,104","44,708"
+104,US," Chie Lin ginseng (incl. fibrous roots, stems, broken ginseng)",O,"3,079","29,711"
+104,MO," Chie Lin ginseng (incl. fibrous roots, stems, broken ginseng)",O,"3,031","27,408"
+104,RU," Chie Lin ginseng (incl. fibrous roots, stems, broken ginseng)",O,"2,639","22,922"
+104,SG," Chie Lin ginseng (incl. fibrous roots, stems, broken ginseng)",O,"2,192","21,518"
+104,AU," Chie Lin ginseng (incl. fibrous roots, stems, broken ginseng)",O,637,"6,062"
+104,CA," Chie Lin ginseng (incl. fibrous roots, stems, broken ginseng)",O,540,"5,016"
+104,BE," Chie Lin ginseng (incl. fibrous roots, stems, broken ginseng)",O,322,"1,647"
+104,HK," Radix ginseng rubra (Korea) (incl. fibrous roots, stems, broken ginseng)",O,120,36
+104,ZZ," Radix ginseng alba (Korea) (incl. fibrous roots, stems, broken ginseng)",O,91,"3,250"
+104,BE, Pao Shen (American ginseng),O,1,2
+104,US, Pao Shen (American ginseng),O,15,71
+104,CA," Pao Shen Wei, Hsu, I Chung Shen (Radix ginseng)",O,814,42
+104,BR, Other ginseng roots,O,54,168
+104,BZ, Other ginseng roots,O,3,6
+104,UY, Other ginseng roots,O,38,26
+104,MY, Other ginseng roots,O,63,200
+104,VN, Other ginseng roots,O,1,9
+104,CN, Sandalwood,O,"44,645","8,304"
+104,JP, Sandalwood,O,"21,859","1,662"
+104,MY, Sandalwood,O,26,186
+104,HK, Sandalwood,O,49,12
+104,KR, Sandalwood,O,4,4
+104,SG, Sandalwood,O,3,2
+104,JP, Ch'en Hsiang (Lignum Aqailariae),O,"1,050","4,566"
+104,SG, Ch'en Hsiang (Lignum Aqailariae),O,27,19
+104,MY, Ch'en Hsiang (Lignum Aqailariae),O,3,8
+104,US, Tu Chung (Cortex Eucommiae),O,418,353
+104,BE, Tu Chung (Cortex Eucommiae),O,143,326
+104,MY, Tu Chung (Cortex Eucommiae),O,29,23
+104,JP, Fan Hsieh Yeh (Folium Sennae),O,82,128
+104,US, T'u Fu Ling (Rhizoma Similacis Glabrae),O,8,6
+104,MY, T'u Fu Ling (Rhizoma Similacis Glabrae),O,34,23
+104,BR," China root, P'ing P'ien (Poria)",O,200,35
+104,BE," China root, P'ing P'ien (Poria)",O,290,198
+104,US," China root, P'ing P'ien (Poria)",O,154,115
+104,MY," China root, P'ing P'ien (Poria)",O,15,15
+104,AU," China root, P'ing P'ien (Poria)",O,7,6
+104,MO," China root, P'ing P'ien (Poria)",O,8,10
+104,US," China root, Ch'ieh P'ien Szu (Poria)",O,153,149
+104,BE," Fang Fu Ling, Fu Shen, P'i Fu Ling (Poria)",O,2,2
+104,US," Fang Fu Ling, Fu Shen, P'i Fu Ling (Poria)",O,31,34
+104,MY," Fang Fu Ling, Fu Shen, P'i Fu Ling (Poria)",O,1,1
+104,NL," Fang Fu Ling, Fu Shen, P'i Fu Ling (Poria)",O,4,4
+104,AU," Fang Fu Ling, Fu Shen, P'i Fu Ling (Poria)",O,1,1
+104,BE, Ta Huang (Rhizoma Rhei),O,2,1
+104,US, Ta Huang (Rhizoma Rhei),O,171,121
+104,NL, Ta Huang (Rhizoma Rhei),O,2,1
+104,AU, Ta Huang (Rhizoma Rhei),O,2,2
+104,US, Huang Lien (Rhizoma Coptidis),O,"1,200",783
+104,BE, Huang Lien (Rhizoma Coptidis),O,59,117
+104,AU, Huang Lien (Rhizoma Coptidis),O,3,6
+104,US, Ch'uan Kung (Rhizoma Ligustici Wallichii),O,667,649
+104,BE, Ch'uan Kung (Rhizoma Ligustici Wallichii),O,128,108
+104,MY, Ch'uan Kung (Rhizoma Ligustici Wallichii),O,25,23
+104,NL, Ch'uan Kung (Rhizoma Ligustici Wallichii),O,19,15
+104,BR, Ch'uan Kung (Rhizoma Ligustici Wallichii),O,30,14
+104,AU, Ch'uan Kung (Rhizoma Ligustici Wallichii),O,4,4
+104,BE, Pai Chu (Rhizoma Atractylodis Macrocephalae),O,501,484
+104,US, Pai Chu (Rhizoma Atractylodis Macrocephalae),O,578,484
+104,BR, Pai Chu (Rhizoma Atractylodis Macrocephalae),O,60,11
+104,NL, Pai Chu (Rhizoma Atractylodis Macrocephalae),O,12,11
+104,MY, Pai Chu (Rhizoma Atractylodis Macrocephalae),O,21,8
+104,AU, Pai Chu (Rhizoma Atractylodis Macrocephalae),O,5,6
+104,BE, Wo Shu (Rhizoma Zedoariae),O,121,75
+104,US, Wo Shu (Rhizoma Zedoariae),O,44,29
+104,US, Kao Liang Chiang (Rhizoma Alpiniae Officinari),O,1,1
+104,BE, Pan Hsia (Tuber Pinelliae),O,178,323
+104,US, Pan Hsia (Tuber Pinelliae),O,68,134
+104,MY, Pan Hsia (Tuber Pinelliae),O,17,33
+104,NL, Pan Hsia (Tuber Pinelliae),O,20,36
+104,AU, Pan Hsia (Tuber Pinelliae),O,1,2
+104,MO, Pan Hsia (Tuber Pinelliae),O,3,3
+104,CH, T'ien Ma (Rhizoma Gastrodiae),O,135,300
+104,BE, Chih Mu (Rhizoma Anemarrhenae),O,94,92
+104,US, Chih Mu (Rhizoma Anemarrhenae),O,57,54
+104,MY, Chih Mu (Rhizoma Anemarrhenae),O,3,2
+104,NL, Chih Mu (Rhizoma Anemarrhenae),O,17,16
+104,CH, Chih Mu (Rhizoma Anemarrhenae),O,10,18
+104,AU, Chih Mu (Rhizoma Anemarrhenae),O,3,4
+104,BE, Niu Hsi (Achyranthis Radix) Ch'uan Niu T'ou Tu Niu Ch'i (Radix Cyathulae),O,114,80
+104,US, Niu Hsi (Achyranthis Radix) Ch'uan Niu T'ou Tu Niu Ch'i (Radix Cyathulae),O,80,57
+104,MY, Niu Hsi (Achyranthis Radix) Ch'uan Niu T'ou Tu Niu Ch'i (Radix Cyathulae),O,20,14
+104,NL, Niu Hsi (Achyranthis Radix) Ch'uan Niu T'ou Tu Niu Ch'i (Radix Cyathulae),O,35,24
+104,CH, Niu Hsi (Achyranthis Radix) Ch'uan Niu T'ou Tu Niu Ch'i (Radix Cyathulae),O,10,17
+104,US, Ch'ai Hu (Radix Bupleuri),O,984,819
+104,BE, Ch'ai Hu (Radix Bupleuri),O,37,45
+104,CH, Ch'ai Hu (Radix Bupleuri),O,10,23
+104,AU, Ch'ai Hu (Radix Bupleuri),O,12,19
+104,MY, Ch'ai Hu (Radix Bupleuri),O,10,12
+104,MO, Ch'ai Hu (Radix Bupleuri),O,3,1
+104,BR, Pai Shau (Radix Paeonige Alba),O,60,14
+104,US, Pai Shau (Radix Paeonige Alba),O,196,149
+104,MY, Pai Shau (Radix Paeonige Alba),O,30,8
+104,US, Huang Ch'in (Radix Scutellariae),O,552,644
+104,BE, Huang Ch'in (Radix Scutellariae),O,465,296
+104,NL, Huang Ch'in (Radix Scutellariae),O,60,37
+104,MY, Huang Ch'in (Radix Scutellariae),O,12,8
+104,AU, Huang Ch'in (Radix Scutellariae),O,8,7
+104,US, Tan Shen (Radix Salvia Multiorrhiza),O,348,448
+104,BE, Tan Shen (Radix Salvia Multiorrhiza),O,201,191
+104,MY, Tan Shen (Radix Salvia Multiorrhiza),O,21,14
+104,NL, Tan Shen (Radix Salvia Multiorrhiza),O,12,11
+104,MO, Tan Shen (Radix Salvia Multiorrhiza),O,5,2
+104,US, Hsuan Sheng (Yuang Sheng) (Radix Scrophulariae),O,281,238
+104,MY, Hsuan Sheng (Yuang Sheng) (Radix Scrophulariae),O,6,2
+104,NL, Hsuan Sheng (Yuang Sheng) (Radix Scrophulariae),O,2,1
+104,AU, Hsuan Sheng (Yuang Sheng) (Radix Scrophulariae),O,3,3
+104,BE, Pei Sa Sheng (Radix Glehniae),O,52,53
+104,US, Pei Sa Sheng (Radix Glehniae),O,9,11
+104,MY, Pei Sa Sheng (Radix Glehniae),O,3,2
+104,NL, Pei Sa Sheng (Radix Glehniae),O,26,27
+104,US, Ti Huang (Radix et Rhizoma Rehmanniae),O,"1,316",997
+104,BE, Ti Huang (Radix et Rhizoma Rehmanniae),O,930,640
+104,MY, Ti Huang (Radix et Rhizoma Rehmanniae),O,489,113
+104,BR, Ti Huang (Radix et Rhizoma Rehmanniae),O,120,24
+104,NL, Ti Huang (Radix et Rhizoma Rehmanniae),O,27,17
+104,AU, Ti Huang (Radix et Rhizoma Rehmanniae),O,5,5
+104,MO, Ti Huang (Radix et Rhizoma Rehmanniae),O,4,1
+104,BE, Huang Chi (Radix Astragali),O,774,779
+104,US, Huang Chi (Radix Astragali),O,390,276
+104,MY, Huang Chi (Radix Astragali),O,273,96
+104,BR, Huang Chi (Radix Astragali),O,162,78
+104,CA, Huang Chi (Radix Astragali),O,66,60
+104,HK, Huang Chi (Radix Astragali),O,301,60
+104,SG, Huang Chi (Radix Astragali),O,205,19
+104,NL, Huang Chi (Radix Astragali),O,8,8
+104,CL, Huang Chi (Radix Astragali),O,4,7
+104,AU, Huang Chi (Radix Astragali),O,4,5
+104,PW, Huang Chi (Radix Astragali),O,5,1
+104,MO, Huang Chi (Radix Astragali),O,4,1
+104,MY, I T'iao Ken (Radix Moghaniae),O,17,9
+104,BR, Fang Feng (Radix Ledebouriellae),O,30,9
+104,BE, Fang Feng (Radix Ledebouriellae),O,212,247
+104,US, Fang Feng (Radix Ledebouriellae),O,47,52
+104,MY, Fang Feng (Radix Ledebouriellae),O,13,29
+104,NL, Fang Feng (Radix Ledebouriellae),O,12,13
+104,CH, Fang Feng (Radix Ledebouriellae),O,20,34
+104,BE, Tang K'uei (Radix Angelicae Sinensis),O,"1,215","1,680"
+104,US, Tang K'uei (Radix Angelicae Sinensis),O,76,120
+104,BR, Tang K'uei (Radix Angelicae Sinensis),O,170,118
+104,CA, Tang K'uei (Radix Angelicae Sinensis),O,109,108
+104,MY, Tang K'uei (Radix Angelicae Sinensis),O,36,43
+104,AU, Tang K'uei (Radix Angelicae Sinensis),O,4,7
+104,SZ, Tang K'uei (Radix Angelicae Sinensis),O,6,4
+104,DO, Tang K'uei (Radix Angelicae Sinensis),O,1,2
+104,PW, Tang K'uei (Radix Angelicae Sinensis),O,6,1
+104,BE, Tang Sheng (Codonopsitis Pilosulae Radix),O,118,139
+104,ZA, Tang Sheng (Codonopsitis Pilosulae Radix),O,72,30
+104,US, Tang Sheng (Codonopsitis Pilosulae Radix),O,62,91
+104,MY, Tang Sheng (Codonopsitis Pilosulae Radix),O,107,33
+104,NL, Tang Sheng (Codonopsitis Pilosulae Radix),O,4,4
+104,MO, Tang Sheng (Codonopsitis Pilosulae Radix),O,1,1
+104,US," Putchuck, old (Radix Saussureae)",O,"2,084",181
+104,US, Hsin I (Flos Magnoliae Liliforae),O,"1,030",897
+104,BE, Hsin I (Flos Magnoliae Liliforae),O,60,82
+104,MY, Hsin I (Flos Magnoliae Liliforae),O,5,7
+104,NL, Hsin I (Flos Magnoliae Liliforae),O,5,7
+104,AU, Hsin I (Flos Magnoliae Liliforae),O,2,3
+104,US, Suan Tsao Jen (Semen Zizyphi Spinosae),O,823,798
+104,MY, Suan Tsao Jen (Semen Zizyphi Spinosae),O,32,54
+104,BR, Suan Tsao Jen (Semen Zizyphi Spinosae),O,30,29
+104,CN, Lo Han Kuo (Momordicae Fructus),O,3,1
+104,BR, Lo Han Kuo (Momordicae Fructus),O,96,34
+104,US, Lo Han Kuo (Momordicae Fructus),O,6,9
+104,MY, Ta Fu P'i (Pericarpium Arecae),O,5,4
+104,US, Liquorice roots,O,"1,068",924
+104,JP, Liquorice roots,O,"8,100",580
+104,BE, Liquorice roots,O,678,488
+104,MY, Liquorice roots,O,564,213
+104,BR, Liquorice roots,O,60,20
+104,AU, Liquorice roots,O,8,8
+104,NL, Liquorice roots,O,2,1
+104,CN," Other plants and parts of plants (including seeds and fruits), used for pharmacy, whether or not cut, crushed or powdered, dried",O,"6,424","1,918"
+104,JP," Other plants and parts of plants (including seeds and fruits), used for pharmacy, whether or not cut, crushed or powdered, dried",O,"59,895","10,516"
+104,BE," Other plants and parts of plants (including seeds and fruits), used for pharmacy, whether or not cut, crushed or powdered, dried",O,"7,340","7,272"
+104,IL," Other plants and parts of plants (including seeds and fruits), used for pharmacy, whether or not cut, crushed or powdered, dried",O,68,182
+104,CA," Other plants and parts of plants (including seeds and fruits), used for pharmacy, whether or not cut, crushed or powdered, dried",O,"2,598","2,431"
+104,ID," Other plants and parts of plants (including seeds and fruits), used for pharmacy, whether or not cut, crushed or powdered, dried",O,32,70
+104,BD," Other plants and parts of plants (including seeds and fruits), used for pharmacy, whether or not cut, crushed or powdered, dried",O,6,1
+104,FR," Other plants and parts of plants (including seeds and fruits), used for pharmacy, whether or not cut, crushed or powdered, dried",O,50,548
+104,US," Other plants and parts of plants (including seeds and fruits), used for pharmacy, whether or not cut, crushed or powdered, dried",O,"36,667","38,761"
+104,GB," Other plants and parts of plants (including seeds and fruits), used for pharmacy, whether or not cut, crushed or powdered, dried",O,"6,008","4,633"
+104,HK," Other plants and parts of plants (including seeds and fruits), used for pharmacy, whether or not cut, crushed or powdered, dried",O,"33,614","42,542"
+104,TH," Other plants and parts of plants (including seeds and fruits), used for pharmacy, whether or not cut, crushed or powdered, dried",O,77,131
+104,PE," Other plants and parts of plants (including seeds and fruits), used for pharmacy, whether or not cut, crushed or powdered, dried",O,79,89
+104,NZ," Other plants and parts of plants (including seeds and fruits), used for pharmacy, whether or not cut, crushed or powdered, dried",O,488,470
+104,MY," Other plants and parts of plants (including seeds and fruits), used for pharmacy, whether or not cut, crushed or powdered, dried",O,"16,568","18,271"
+104,NL," Other plants and parts of plants (including seeds and fruits), used for pharmacy, whether or not cut, crushed or powdered, dried",O,"22,864","31,000"
+104,PH," Other plants and parts of plants (including seeds and fruits), used for pharmacy, whether or not cut, crushed or powdered, dried",O,68,17
+104,VN," Other plants and parts of plants (including seeds and fruits), used for pharmacy, whether or not cut, crushed or powdered, dried",O,3,1
+104,AT," Other plants and parts of plants (including seeds and fruits), used for pharmacy, whether or not cut, crushed or powdered, dried",O,"12,064","9,565"
+104,SG," Other plants and parts of plants (including seeds and fruits), used for pharmacy, whether or not cut, crushed or powdered, dried",O,"2,396","3,133"
+104,CH," Other plants and parts of plants (including seeds and fruits), used for pharmacy, whether or not cut, crushed or powdered, dried",O,"2,946","5,382"
+104,AU," Other plants and parts of plants (including seeds and fruits), used for pharmacy, whether or not cut, crushed or powdered, dried",O,871,158
+104,MO," Other plants and parts of plants (including seeds and fruits), used for pharmacy, whether or not cut, crushed or powdered, dried",O,174,67
+104,BE, Myrrh gum,O,64,44
+104,US, Myrrh gum,O,579,487
+104,MY, Myrrh gum,O,6,3
+104,NL, Myrrh gum,O,16,11
+104,BE, Olibanum gum,O,6,4
+104,US, Olibanum gum,O,3,3
+104,MY, Olibanum gum,O,6,4
+104,US, Shen Chu,O,7,7
+104,NL, Shen Chu,O,5,6
+104,JP," Borneol, champhor baroos",O,"11,047","9,352"
+104,HK," Hominis placenta, dried",O,"4,390","3,750"
+104,BE, A Chiao (Corii Asini Colla),O,46,116
+104,NL, A Chiao (Corii Asini Colla),O,14,36
+104,CA," Other gingers, neither crushed nor ground",O,73,61
+104,NI," Other gingers, neither crushed nor ground",O,52,8
+104,AR," Other gingers, neither crushed nor ground",O,24,24
+104,ZA," Other gingers, neither crushed nor ground",O,136,9
+104,KR," Other gingers, neither crushed nor ground",O,28,1
+104,US," Other gingers, neither crushed nor ground",O,94,59
+104,MY," Other gingers, neither crushed nor ground",O,"1,263",500
+104,FJ," Other gingers, neither crushed nor ground",O,36,1
+104,SG," Other gingers, neither crushed nor ground",O,279,54
+104,GU," Other gingers, neither crushed nor ground",O,"1,150",53
+104,TT," Other gingers, crushed or ground",O,42,120
+104,CN," Other gingers, crushed or ground",O,351,139
+104,JP," Other gingers, crushed or ground",O,216,274
+104,BE," Other gingers, crushed or ground",O,29,19
+104,CA," Other gingers, crushed or ground",O,64,58
+104,BN," Other gingers, crushed or ground",O,10,35
+104,US," Other gingers, crushed or ground",O,613,478
+104,HK," Other gingers, crushed or ground",O,"7,868","1,893"
+104,MY," Other gingers, crushed or ground",O,735,292
+104,NL," Other gingers, crushed or ground",O,10,6
+104,CL," Other gingers, crushed or ground",O,7,2
+104,AU," Other gingers, crushed or ground",O,112,47
+104,MO," Other gingers, crushed or ground",O,7,10
+104,US, Tse Pei Mu (Bulbus Fritillariae Thunbergii),O,792,776
+104,MY, Tse Pei Mu (Bulbus Fritillariae Thunbergii),O,9,13
+104,AT, Tse Pei Mu (Bulbus Fritillariae Thunbergii),O,1,7
+104,NL, Tse Pei Mu (Bulbus Fritillariae Thunbergii),O,6,6
+104,BE, Tse Pei Mu (Bulbus Fritillariae Thunbergii),O,7,5
+104,MO, Tse Pei Mu (Bulbus Fritillariae Thunbergii),O,1,1
