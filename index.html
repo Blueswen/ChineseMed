@@ -8,42 +8,87 @@
     <script src="./js/world-mill.js"></script>
     <script src="./js/papaparse.min.js"></script>
     <script src="./js/selectize.min.js"></script>
+    <script src="./js/d3.min.js"></script>
+    <script src="./js/nv.d3.js"></script>
     <link rel="stylesheet" href="./css/selectize.css" media="screen" title="no title" charset="utf-8">
     <link rel="stylesheet" href="./css/jvectormap-2.0.3.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <link rel="stylesheet" href="./css/nv.d3.css">
+    <style type="text/css">
+      #chart{
+        height:500px
+      }
+    </style>
   </head>
   <body>
-    <div style="display:None">
-      <label for="country">Country</label>
-      <select id="country">
-      </select>
+    <div class="row">
+      <div class="col-md-12 text-center">
+        <h1>中藥材視覺化</h1>
+      </div>
     </div>
-    <div>
-      <label for="item">Item</label>
-      <select id="item">
-      </select>
+    <div class="row">
+      <div class="col-md-3 col-md-push-1">
+        <div style="display:None">
+          <label for="country">Country</label>
+          <select id="country">
+          </select>
+        </div>
+        <div>
+          <label for="year">年度</label>
+          <select id="year">
+          </select>
+        </div>
+        <div>
+          <label for="item">品項</label>
+          <select id="item">
+          </select>
+        </div>
+        <div>
+          <label for="target">Target</label>
+          <select id="target">
+          </select>
+        </div>
+        <div>
+          <label for="type">Type</label>
+          <select id="type">
+          </select>
+        </div>
+        <button class="btn btn-default" style="width:100%" type="submit" id="plot">搜尋</button>
+        <div id="chart">
+          <svg></svg>
+        </div>
+
+      </div>
+      <div class="col-md-7 col-md-push-1">
+        <div id="world-map" style="width: 100%; height: 700px"></div>
+      </div>
     </div>
-    <div>
-      <label for="target">Target</label>
-      <select id="target">
-      </select>
-    </div>
-    <div>
-      <label for="type">Type</label>
-      <select id="type">
-      </select>
-    </div>
-    <button class="btn btn-default" type="submit" id="plot">Plot</button>
-    <div id="world-map" style="width: 600px; height: 400px"></div>
     <script>
       var country_data, item_data, record_data;
+      var year_list= [104,105];
+
       $(function(){
         papa_config = {
           delimiter: ",",
           header: true,
           skipEmptyLines: true
         }
+
         $('#world-map').vectorMap({map: 'world_mill'});
+
+        year_options = []
+        for(i = 0 ; i < year_list.length ; i++){
+          year_options.push({'year':year_list[i]})
+        }
+
+        $('#year').selectize({
+          delimiter: ',',
+          persist: false,
+          options: year_options,
+          searchField: ['year'],
+          labelField: 'year',
+          valueField: 'year'
+        });
 
         $('#target').selectize({
           delimiter: ',',
@@ -53,6 +98,7 @@
           labelField: 'target',
           valueField: 'target'
         });
+
         $('#type').selectize({
           delimiter: ',',
           persist: false,
@@ -117,11 +163,12 @@
         });
 
         $('#plot').click(function(){
+          cur_year = $('#year option').val()
           cur_type = $('#type option').val()
           cur_target = $('#target option').val()
           cur_item = $('#item option').val()
           cur_data = record_data.data.filter(function(row) {
-            if(row["品項"]==cur_item && row["類別"]==cur_type){
+            if(row["品項"]==cur_item && row["類別"]==cur_type && row["年度"]==cur_year){
               return true;
             }
             else{
@@ -129,6 +176,23 @@
             }
           })
           if(cur_data.length!=0){
+            // Plot Pie Chart
+            nv.addGraph(function() {
+              var chart = nv.models.pieChart()
+                  .x(function(d) { return countryName(d["國家"]) })
+                  .y(function(d) { return parseInt(d[cur_target].replace(/,/g, '')) })
+                  .height(500)
+                  .showLabels(true);
+
+                d3.select("#chart svg")
+                  .datum(cur_data)
+                  .transition().duration(1200)
+                  .call(chart);
+
+              return chart;
+            });
+
+            // Plot Map
             plot_data = {}
             cur_data.forEach(function(row){
               plot_data[row['國家']]=row[cur_target]
@@ -146,10 +210,10 @@
               },
               onRegionTipShow: function(e, el, code){
                 if(plot_data[code]!=undefined && cur_target=="價值"){
-                  el.html(el.html()+' (價值(新台幣:千元): ' + plot_data[code]+')');
+                  el.html(countryName(code)+' (價值(新台幣:千元): ' + plot_data[code]+')');
                 }
                 else if(plot_data[code]!=undefined && cur_target=="重量"){
-                  el.html(el.html()+' (重量(公斤): ' + plot_data[code]+')');
+                  el.html(countryName(code)+' (重量(公斤): ' + plot_data[code]+')');
                 }
               }
             });
@@ -157,6 +221,19 @@
 
         })
       });
+
+      function numberWithCommas(x) {
+        return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+      }
+
+      function countryName(id) {
+        for( i=0 ; i<country_data.data.length ; i++ ){
+          if(id == country_data.data[i]["編碼"]){
+              return country_data.data[i]["中文"]
+          }
+        }
+        return id;
+      }
     </script>
   </body>
 </html>
